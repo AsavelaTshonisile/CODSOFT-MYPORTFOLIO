@@ -1,2 +1,2 @@
 # CODSOFT-MYPORTFOLIO
-My portfolio
+A portfolio website containing all of my possible professional detalis
